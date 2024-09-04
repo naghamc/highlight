@@ -64,7 +64,7 @@ export default {
 
 <style>
 .card-container {
-  background: #fff; /* White background */
+  background: #f1f1f1; /* White background */
   border-radius: 8px; /* Rounded corners */
   padding: 20px; /* Space inside the card */
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
