@@ -14,7 +14,7 @@
       </div>
 
       <br />
-      <span v-if="highlightedText">
+      <span v-if="highlightedText" style="font-weight: bold">
         {{ occurrences }} of {{ highlightedText }} were found
       </span>
     </form>
